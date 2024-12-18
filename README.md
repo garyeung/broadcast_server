@@ -1,7 +1,7 @@
 # Broadcast Server
 (https://roadmap.sh/projects/broadcast-server)  
 A real-time broadcast server implementation using WebSocket protocol.  
-This serveer supports user authentication, real-time messaging, and user status tracking.
+This server supports user authentication, real-time messaging, and user status tracking.
 
 ## Features
 - Real-time WebSocket communication
